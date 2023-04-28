@@ -28,8 +28,12 @@
 </br>
 </br>
 <h2>기록</h2>
+<a href="https://ystar5008.tistory.com/">
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=fff"/>
+</a>
+<a href="https://ystar5008.notion.site/Index-ys-587b61b84f174ccdb671b0fd92b4411f/">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=fff"/>
+</a>
 </br>
 </br>
 </br>
