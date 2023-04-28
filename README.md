@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align=center>
 
-<!--
-**ystar5008/ystar5008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=index.ys%20깃허브&fontSize=48)
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ystar5008&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff"/>
+<img src="https://img.shields.io/badge/mysql-#4479A1?style=for-the-badge&logo=mysql&logoColor=fff"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff"/>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ystar5008&layout=compact)](https://github.com/ystar5008/github-readme-stats)
+
+
+
+ </div>
