@@ -43,7 +43,7 @@
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ystar5008&layout=compact)](https://github.com/ystar5008/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ystar5008&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/ystar5008/github-readme-stats)
 
 
 
