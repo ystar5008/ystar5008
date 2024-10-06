@@ -17,7 +17,7 @@
 ## Record
 
 
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://lively-quokka-d71.notion.site/117480a3853d8085a881ec8722db44f6?pvs=74)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://lively-quokka-d71.notion.site/117480a3853d80329e96dfb9fe4da85a?pvs=4)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://ystar5008.tistory.com/)
 
 
